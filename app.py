@@ -398,9 +398,9 @@ def runQuery(query):
 		# cnx = mysql.connector.connect(user="frtuseradmin", password="DEEpak@#6203", host="frtserver.mysql.database.azure.com", port=3306, database="db_theatre", ssl_ca="{ca-cert filename}", ssl_disabled=False)
 		# Connection parameters
 		config = {
-			"user": "frtuseradmin",
+			"user": "movieticadmin",
 			"password": "DEEpak@#6203",  # Add your password here
-			"host": "frtserver.mysql.database.azure.com",
+			"host": "frtservermovietic.mysql.database.azure.com",
 			"port": 3306,
 			"database": "db_theatre",
 			"ssl_disabled": False  # SSL is enabled by default, so you can leave this out if you want SSL
