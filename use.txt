@@ -1,0 +1,32 @@
+#How to Create a Database:
+1. Open XAMPP and create a new database named db_theatre.
+2. Import the db_theatre file into the newly created database.
+
+#How to Run the Project:
+Step 1:
+    Open the "Major project" folder in Visual Studio Code.
+    Open a new terminal.
+    The terminal prompt should appear as follows: [PS C:\Users\deepa\Desktop\Major project>].        
+
+Step 2:
+    In the terminal, enter the following command: python -m venv .venv.
+    Activate the virtual environment, which should result in the prompt looking like this: (.venv) PS C:\Users\deepa\Desktop\Major project>.
+
+
+Step 3:
+    Install all project dependencies by running: pip install -r requirements.txt.
+
+step 4:
+    To run the project, execute the command: flask run.
+
+#How to login
+Login as "manager" (password "manager"), to add new movies, schedule shows, alter ticket prices, and view bookings.
+Login as "cashier (password "cashier"), to book seats for scheduled shows.
+
+
+
+
+
+
+#Ignore it
+how to creeate requirements.txt file ----->  pip freeze > requirements.txt
