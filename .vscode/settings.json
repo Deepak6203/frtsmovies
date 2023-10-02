@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/b7ecc414-25c1-4bfe-a99a-30870c4e9697/resourceGroups/frtmysqlrg/providers/Microsoft.Web/sites/frtmovietic",
+    "appService.deploySubpath": "."
+}
