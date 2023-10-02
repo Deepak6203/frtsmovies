@@ -1,15 +1,15 @@
 <h1 align="center">
   <img src="https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/32/film.png"/>
-  CineManagerDB
+  MovieTic
 </h1>
 
 <h5 align="center">A comprehensive theatre management and ticket booking system</h5>
-<h6 align="center">Written during my 5th semester BE for a course specified mini project in Database Management Systems (DBMS).</h6>
+<h6 align="center">Written during my 7th semester B-Tech for a course specified mini project in Database Management Systems (DBMS).</h6>
 
 ## 
 
 <p align="center">
-The system follows a 3-tier architecture, with a web based front end, Python + Flask as the HTTP server and router, and MySQL server for the database. JavaScript is used to build AJAX requests from the front end, which are served by a Python server running Flask as the application framework. MySQL's Python connector is used to query the MySQL server, which executes the queries on a relational database in 3rd Normal Form.
+The system follows a 3-tier architecture, with a web based front end, Python + Flask as the HTTP server and router, and MySQL server for the database. JavaScript is used to build from the front end, which are served by a Python server running Flask as the application framework. MySQL's Python connector is used to query the MySQL server, which executes the queries on a relational database in 3rd Normal Form.
 </p>
 <p align="center">
 The system is built to serve as an onsite booking and management system for a theatre (franchise). Two actors are considered, one being the cashier at the booking kiosk, who books tickets in exchange for payment, and the other being the manager who views statistics, alters pricing structures, schedules showings of movies, and adds new movies that are to be premiered.
@@ -59,9 +59,8 @@ All HTTP requests to Flask are made via encrypted POST messages. The system is d
 
 ## External Libraries
  <p> <strong>Bootstrap</strong> CSS structure</p>
- <p> <strong>JQuery</strong> AJAX requests, and general JS functionality</p>
  <p> <strong>pickadate.js</strong> Date and time picker</p>
- <p> <strong>Hints</strong> https://github.com/GokulVSD/CineManagerDB</p>
+ <p> <strong>Hints</strong> https://github.com/GokulVSD/MovieTic</p>
  <br />
 
 ## 
@@ -73,9 +72,9 @@ All HTTP requests to Flask are made via encrypted POST messages. The system is d
 
 # Initialise MySQL:
 
-source /path/to/CineManagerDB/initialise.sql
+source /path/to/MovieTic/db_theatre.sql
 
-# Use pip to install mysql-connector and flask, use python 3.6 to run app.py 
+# Use pip to install mysql-connector and flask, use python 3.10 or avobe 3.6 to run app.py 
 # Visit the website by vising http://localhost:5000 
 
 Login as "manager" (password "manager"), to add new movies, schedule shows, alter ticket prices, and view bookings.
@@ -87,4 +86,4 @@ Usernames and passwords can be changed in app.py
 <br />
 
 ##
-*Please do not plagiarise.*
+*FRT Project*
