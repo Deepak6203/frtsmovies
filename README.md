@@ -4,7 +4,7 @@
 </h1>
 
 <h5 align="center">A comprehensive theatre management and ticket booking system</h5>
-<h6 align="center">Written during my 7th semester B-Tech for a course specified mini project in Database Management Systems (DBMS).</h6>
+<h6 align="center">Written during my 7th semester B-Tech for a course specified major project in Database Management Systems (DBMS).</h6>
 
 ## 
 
@@ -17,7 +17,9 @@ The system is built to serve as an onsite booking and management system for a th
 <p align="center">
 All HTTP requests to Flask are made via encrypted POST messages. The system is designed to be secure, robust and flexible. The requirements mandated the use of a stored procedure and a trigger in MySQL. An ER to schema mapping was to be performed and the schema was required to be normalised to 3NF.
 </p>
-
+<p align="center">
+To deploy a Python Flask app with Azure App Service and use Azure Database for MySQL to store data, follow these steps Set Up Azure Services:1.Create an Azure App Service to host your Flask app. 2.Create an Azure Database for MySQL to store your data. and useing these steps to perform [Configure Flask App , Database Connection, Deploy Flask App, Dependencies, Azure Configuration, Database Setup, Environment Variables, Testing, Security and Scaling, Backups and Disaster Recovery, Monitoring and Maintenance]   => By following these steps, you can deploy your Python Flask app on Azure App Service and use Azure Database for MySQL to store and manage your application's data.
+</p>
 ## 
 
 <img src="/art/1.gif?raw=true"/>
