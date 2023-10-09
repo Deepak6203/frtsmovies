@@ -4,7 +4,10 @@
 </h1>
 
 <h5 align="center">A comprehensive theatre management and ticket booking system</h5>
-<h6 align="center">Written during my 7th semester B-Tech for a course specified major project in Database Management Systems (DBMS).</h6>
+<h6 align="center">Written during my future readytalent internship web link:https://frtmovietic.azurewebsites.net/ </h6>
+<h6 align="center">Project demonstration video 1 link:https://youtu.be/tr6T4aKZ29s?feature=shared </h6>
+<h6 align="center">Project demonstration video 2 link:https://youtu.be/bff9LHSz7eg?feature=shared </h6>
+
 
 ## 
 
@@ -20,6 +23,33 @@ All HTTP requests to Flask are made via encrypted POST messages. The system is d
 <p align="center">
 <b>TO DEPLOY</b> the Python Flask app with Azure App Service and use Azure Database for MySQL to store data, follow these steps Set Up Azure Services:1.Create an Azure App Service to host your Flask app. 2.Create an Azure Database for MySQL to store your data. and useing these steps to perform [Configure Flask App , Database Connection, Deploy Flask App, Dependencies, Azure Configuration, Database Setup, Environment Variables, Testing, Security and Scaling, Backups and Disaster Recovery, Monitoring and Maintenance]   => By following these steps, you can deploy your Python Flask app on Azure App Service and use Azure Database for MySQL to store and manage your application's data.
 </p>
+<p align="center">
+Login as "manager" (password "manager"), to add new movies, schedule shows, alter ticket prices, and view bookings.
+Login as "cashier (password "cashier"), to book seats for scheduled shows.
+</p>
+
+### Azure Technologies used :
+
+1.App service  Web Apps(for deployment of the website).
+
+2.Azure Storage Accounts.
+
+3.Azur mysql database
+
+### Web Technologies used :
+
+1.HTML
+
+2.CSS
+
+3.JavaScript
+
+# IDE Used :
+
+Vs code
+
+
+
 ## 
 
 <img src="/art/1.gif?raw=true"/>
@@ -61,8 +91,7 @@ All HTTP requests to Flask are made via encrypted POST messages. The system is d
 
 ## External Libraries
  <p> <strong>Bootstrap</strong> CSS structure</p>
- <p> <strong>pickadate.js</strong> Date and time picker</p>
- <p> <strong>Hints</strong> https://github.com/GokulVSD/MovieTic</p>
+ <p> <strong>Hints</strong> https://github.com/Deepak6203/frtsmovies</p>
  <br />
 
 ## 
