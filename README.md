@@ -5,8 +5,17 @@
 
 <h5 align="center">A comprehensive theatre management and ticket booking system</h5>
 <h6 align="center">Written during my future readytalent internship web link:https://frtmovietic.azurewebsites.net/ </h6>
-<h6 align="center">Project demonstration video 1 link:https://youtu.be/tr6T4aKZ29s?feature=shared </h6>
-<h6 align="center">Project demonstration video 2 link:https://youtu.be/bff9LHSz7eg?feature=shared </h6>
+<h6 align="center">Project demonstration video  link:https://youtu.be/bff9LHSz7eg?feature=shared </h6>
+<h6 align="center">Project demonstration video  link:https://youtu.be/bff9LHSz7eg </h6>
+
+
+<p align="center">
+Login as "manager" (password "manager"), to add new movies, schedule shows, alter ticket prices, and view bookings.
+Login as "cashier (password "cashier"), to book seats for scheduled shows.   <br/>
+### in your PC or computer If you are faceing any difficult  for chooseing the date or any other issues  then we recommended to you please use  mobile mode or  <b> mozilla firefox </b> browser 
+you can also use your Mobile Phone to test our website 
+</p>
+
 
 
 ## 
@@ -25,7 +34,9 @@ All HTTP requests to Flask are made via encrypted POST messages. The system is d
 </p>
 <p align="center">
 Login as "manager" (password "manager"), to add new movies, schedule shows, alter ticket prices, and view bookings.
-Login as "cashier (password "cashier"), to book seats for scheduled shows.
+Login as "cashier (password "cashier"), to book seats for scheduled shows.   <br/>
+### in your PC or computer If you are faceing any difficult  for chooseing the date or any other issues  then we recommended to you please use  mobile mode or  <b> mozilla firefox </b> browser 
+you can also use your Mobile Phone to test our website 
 </p>
 
 ### Azure Technologies used :
@@ -85,9 +96,18 @@ Vs code
 
 ## Dependencies
  <p> <strong>Flask</strong> Python HTTP router</p>
+ <p> <strong>MySQL</strong> Database server or App Service</p>
+ 
+ <br />
+
+ ## How to use Azur app service  [for more info follow Project demonstration video  link ]
+ <p> <strong>Flask</strong> Python HTTP router</p>
  <p> <strong>MySQL</strong> Database server</p>
  
  <br />
+
+
+ 
 
 ## External Libraries
  <p> <strong>Bootstrap</strong> CSS structure</p>
