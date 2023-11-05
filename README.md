@@ -12,7 +12,7 @@
 <p align="center">
 Login as "manager" (password "manager"), to add new movies, schedule shows, alter ticket prices, and view bookings.
 Login as "cashier (password "cashier"), to book seats for scheduled shows.   <br/>
-### in your PC or computer If you are faceing any difficult  for chooseing the date or any other issues  then we recommended to you please use  mobile mode or  <b> mozilla firefox </b> browser 
+### in your PC or computer If you are faceing any difficult  for chooseing the date or any other issues  then we recommended to you please use  mobile mode in your pc or computer or  <b> mozilla firefox </b> browser 
 you can also use your Mobile Phone to test our website 
 </p>
 
@@ -132,7 +132,7 @@ Login as "manager" (password "manager"), to add new movies, schedule shows, alte
 Login as "cashier (password "cashier"), to book seats for scheduled shows.
 
 <p align="center">
-in your PC or computer If you are faceing any difficult  for chooseing the date or any other issues  then we recommended to you please use  mobile mode or  <b> mozilla firefox </b> browser 
+in your PC or computer If you are faceing any difficult  for chooseing the date or any other issues  then we recommended to you please use  mobile mode in your pc or computer or  <b> mozilla firefox </b> browser 
 you can also use your Mobile Phone to test our website 
 </p>
 
