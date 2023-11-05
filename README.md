@@ -11,9 +11,9 @@
 
 <p align="center">
 Login as "manager" (password "manager"), to add new movies, schedule shows, alter ticket prices, and view bookings.
-Login as "cashier (password "cashier"), to book seats for scheduled shows.   <br/>
-### in your PC or computer If you are faceing any difficult  for chooseing the date or any other issues  then we recommended to you please use  mobile mode in your pc or computer or  <b> mozilla firefox </b> browser 
-you can also use your Mobile Phone to test our website 
+Login as "cashier (password "cashier"), to book seats for scheduled shows.
+<b> in your PC or computer If you are faceing any difficult  for chooseing the date or any other issues  then we recommended to you please use  mobile mode in your pc or computer or   mozilla firefox  browser 
+you can also use your Mobile Phone to test our website </b>
 </p>
 
 
@@ -130,10 +130,9 @@ source /path/to/MovieTic/db_theatre.sql
 
 Login as "manager" (password "manager"), to add new movies, schedule shows, alter ticket prices, and view bookings.
 Login as "cashier (password "cashier"), to book seats for scheduled shows.
-
-<p align="center">
-in your PC or computer If you are faceing any difficult  for chooseing the date or any other issues  then we recommended to you please use  mobile mode in your pc or computer or  <b> mozilla firefox </b> browser 
-you can also use your Mobile Phone to test our website 
+<p align="center"> <b> 
+in your PC or computer If you are faceing any difficult  for chooseing the date or any other issues  then we recommended to you please use  mobile mode in your pc or computer or mozilla firefox browser 
+you can also use your Mobile Phone to test our website  </b>
 </p>
 
 Usernames and passwords can be changed in app.py
