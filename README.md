@@ -120,6 +120,14 @@ Vs code
  ![Screenshot](https://github.com/Deepak6203/frtsmovies/blob/main/Azurpic/Screenshot%20(266).png)
  ![Screenshot](https://github.com/Deepak6203/frtsmovies/blob/main/Azurpic/Screenshot%20(269).png)
  ![Screenshot](https://raw.githubusercontent.com/Deepak6203/frtsmovies/main/Azurpic/Screenshot%20(270).png)
+ ![Screenshot](https://github.com/Deepak6203/frtsmovies/blob/main/Azurpic/Screenshot%20(272).png)
+ ![Screenshot](https://github.com/Deepak6203/frtsmovies/blob/main/Azurpic/Screenshot%20(273).png)
+ ![Screenshot](https://github.com/Deepak6203/frtsmovies/blob/main/Azurpic/Screenshot%20(275).png)
+ ![Screenshot](https://github.com/Deepak6203/frtsmovies/blob/main/Azurpic/Screenshot%20(276).png)
+ ![Screenshot](https://github.com/Deepak6203/frtsmovies/blob/main/Azurpic/Screenshot%20(277).png)
+ ![Screenshot](https://github.com/Deepak6203/frtsmovies/blob/main/Azurpic/Screenshot%20(278).png)
+ All Azur setup [pdf](https://github.com/Deepak6203/frtsmovies/blob/main/Azurpic/allpicdeployeeee.pdf) for more information Please watch full <h6 align="center">Project demonstration video  link:https://youtu.be/bff9LHSz7eg </h6>
+ 
  
 
  
