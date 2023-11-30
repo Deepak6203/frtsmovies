@@ -114,6 +114,20 @@ Vs code
  <p> <strong>Hints</strong> https://github.com/Deepak6203/frtsmovies</p>
  <br />
 
+ ## Deployment Process Screenshot
+ ![Screenshot](https://raw.githubusercontent.com/Deepak6203/frtsmovies/main/Azurpic/Screenshot%20(264).png)
+ ![Screenshot](https://github.com/Deepak6203/frtsmovies/blob/main/Azurpic/Screenshot%20(265).png)
+ ![Screenshot](https://github.com/Deepak6203/frtsmovies/blob/main/Azurpic/Screenshot%20(266).png)
+ ![Screenshot](https://github.com/Deepak6203/frtsmovies/blob/main/Azurpic/Screenshot%20(269).png)
+ ![Screenshot](https://raw.githubusercontent.com/Deepak6203/frtsmovies/main/Azurpic/Screenshot%20(270).png)
+ 
+
+ 
+
+ <p> <strong>Hints</strong> https://github.com/Deepak6203/frtsmovies</p>
+ <br />
+
+
 ## 
 
 ```
